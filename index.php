@@ -104,7 +104,7 @@
           </div>
 
           <div class="row">
-						
+
 						<?php foreach($games as $game) : ?>
 	            <div class="col-lg-4 col-md-6 mb-4">
 	              <div class="card h-100">
