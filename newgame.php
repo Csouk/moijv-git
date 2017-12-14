@@ -150,3 +150,10 @@ if (!empty($_POST)) {
   </body>
 
 </html>
+<<<<<<< HEAD
+=======
+
+<?php
+
+?>
+>>>>>>> add-newgame
