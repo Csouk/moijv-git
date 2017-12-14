@@ -1,3 +1,12 @@
+<?php
+	require_once 'connexion.php';
+
+	$queryGame = $connexion->prepare('SELECT * FROM game');
+
+	$queryGame->execute();
+
+	$games = $queryGame->fetchAll(PDO::FETCH_ASSOC);
+?>
 <!DOCTYPE html>
 <html lang="en">
 
