@@ -38,7 +38,7 @@
               <a class="nav-link" href="#">A propos</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Location</a>
+              <a class="nav-link" href="newgame.php">Ajout d'un jeu</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="login.php">Connexion</a>
